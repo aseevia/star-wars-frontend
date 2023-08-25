@@ -26,7 +26,7 @@ on that location, in addition to the distance from the user to the entity. The l
 The secret message should be fetched from an API and decrypted in the browser upon receipt:
 
 ```http request
-GET https://grundium-frontend.github.io/data/secret.json
+GET https://aseevia.github.io/star-wars-frontend/data/secret.json
 ```
 
 Once you decrypt coordinates and identities, you will probably end up with a data structure similar to this:
