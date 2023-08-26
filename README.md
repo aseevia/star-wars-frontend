@@ -111,10 +111,10 @@ The data structure of entity details looks like:
 4. Make informed decisions. Use what you think is suitable for e.g., state management, making HTTP requests, rendering the map.
 5. This is a great opportunity to express your creativity, so make sure the app reflects your strengths, for example:
   - Make it look super nice visually if you are a graphical designer at heart, and we may forgive you for the messy code 😄.
-  - TDD addict? Cover it with tests thoroughly, we won't care if it comes out ugly in this case 😂.
+  - TDD adept? Cover it with tests thoroughly, we won't care if it comes out ugly in this case 😂.
   - Frontend architect? Surprise us with the project structure and architectural decisions, make Uncle Bob proud of you 👍!
   - Have any other superpower(s)? Now is the time to show them off!
 
 ## Delivering the result
 Create a GitHub repository for your solution, make a live demo available (GitHub pages, Vercel, Netlify), and send us links to both source repository and the deployed app.
-
+And don't forget to give a star to this repository if you've had fun implementing the App!
